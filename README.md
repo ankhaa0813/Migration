@@ -1,2 +1,2 @@
 # About
-I study Development Economics at the University of Goettingen. Here is my final assignment for Migration and Replication course. I studied the effect of migration on left-behind family members' employment status using the TVSEP dataset in Thailand and Vietnam.
+I study Development Economics at the University of Goettingen. Here is my final assignment for the Migration and Replication course. I examined the effect of migration on left-behind family members' employment status using the TVSEP dataset in Thailand and Vietnam. You can find the STATA do file. Unfortunately, I can't share the data due to data protection. So, I hope you might be able to find some helpful commands or techniques from the do file. 
