@@ -1,6 +1,6 @@
 # About
 I study Development Economics at the University of Goettingen. Here is my final assignment for the Migration and Replication course. I examined the effect of migration on left-behind family members' employment status using the TVSEP dataset in Thailand and Vietnam. You can find the STATA do file. Unfortunately, I can't share the data due to data protection. So, I hope you might be able to find some helpful commands or techniques from the do file. 
-# Main results 
+## Main results 
  Losing one household member to migration might increase the household chores for left-behind members. In contrast, additional income from remittances improves their household and leads them to unemployment or to seek better jobs. My result contradicts these two
 economic explanations of the employment status of the left-behind members. The migration of the household members induces the left-behind spouses to participate in the labor force as permanent and casual workers. Whereas migration decreases the chance of being self-employed, unemployed, and housewife. But after the migrant is returned home, the probability of being unemployed or a housewife of left-behind spouses begins to increase. The result's external validity is restricted only to poor rural households; therefore, the migration might affect the labor force participation of left-behind spouses in different environments.
 
